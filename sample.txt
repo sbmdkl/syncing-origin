@@ -1,4 +1,5 @@
 sample file
 first change
 second change
-third change from new
+first change from new
+second change from new 
