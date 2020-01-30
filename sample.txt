@@ -2,4 +2,4 @@ sample file
 first change
 second change
 first change from new
-second change from new 
+second change from new : added some new line
